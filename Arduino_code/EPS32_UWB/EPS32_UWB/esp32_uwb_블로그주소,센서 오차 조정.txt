@@ -1,0 +1,22 @@
+ESP32_UWB_setup_anchor 파일 실행해서 아두이노 툴 키면 uint16_t Adelay = 16606; 
+이 값을 조정해주면 센서 오차율이 줄어든다. 프로그램 심을 때 오류뜨면 센서 플래쉬 버튼 누르면서 디버깅하면 됨.
+
+
+esp32_uwb 리셋 버튼 누르면 pc통신을 통해 딜레이랑 주소 나옴
+
+ESP32_UWB 블로그
+https://blog.naver.com/artnrobot/223150190794
+
+//ESP32 STM32 연동
+https://blog.naver.com/eziya76/221433689776
+
+https://with-rl.tistory.com/entry/ESP32-STM32%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-WiFi-Serial-Bridge-%EB%A7%8C%EB%93%A4%EA%B8%B0
+
+https://www.basic4mcu.com/bbs/board.php?bo_table=gac&wr_id=21882
+esp 32 - wrover - bu01
+
+
+
+////stm32 dma 기능 사용
+https://eteo.tistory.com/181
+
